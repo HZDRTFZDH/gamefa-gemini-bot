@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+news_memory.json
+editorial_learning.json
+editorial_stats.json
+gamefa_images/
+.venv/
+venv/
+.idea/
+.vscode/
